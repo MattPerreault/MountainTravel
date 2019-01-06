@@ -31,19 +31,19 @@ a.btn {
     cursor: pointer;
     /* display: block; */
     position: relative;
-    background-color: #bcaf62;
+    background-color: #E7CD52;
     color: white;
     text-transform: uppercase;
     letter-spacing: 2px;
     padding: 25px 80px;
     margin: 0 auto;
     border-radius: 10px; 
-    box-shadow: 0 6px #a09658;
-	opacity: 1;
+    box-shadow: 0 6px #bc9125;
+	opacity: .8;
 }
 
 a.btn:hover {
-    box-shadow: 0 4px #a09658;
+    box-shadow: 0 4px #bc9125;
     top: 2px;
 }
 
